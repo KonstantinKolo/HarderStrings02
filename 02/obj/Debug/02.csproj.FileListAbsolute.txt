@@ -1,0 +1,6 @@
+D:\DomashnaRabota\HarderStrings02\02\bin\Debug\02.exe.config
+D:\DomashnaRabota\HarderStrings02\02\bin\Debug\02.exe
+D:\DomashnaRabota\HarderStrings02\02\bin\Debug\02.pdb
+D:\DomashnaRabota\HarderStrings02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\HarderStrings02\02\obj\Debug\02.exe
+D:\DomashnaRabota\HarderStrings02\02\obj\Debug\02.pdb
